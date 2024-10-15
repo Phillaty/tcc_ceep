@@ -1,0 +1,993 @@
+.fundo_preto{		background-color: black;}
+
+.conta_u {			background-image: url("img/acon/2x/baseline_person_black_18dp.png");
+					background-repeat: no-repeat;
+					background-position: center center;
+					height: 64px;}
+
+.conta_u:hover{		background-image: url("img/acon/2x/baseline_person_black_18dp2.png");
+					transition: 0.2s;}
+
+.notificicacao{		background-image: url("img/noti/2x/baseline_notifications_black_18dp.png");
+					background-repeat: no-repeat;
+					background-position: center center;
+					height: 64px;}
+
+.notificicacao:hover{background-image: url("img/noti/2x/baseline_notifications_black_18dp2.png");
+					transition: 0.2s;}
+
+.logout{			background-image: url("img/logout.png");
+					background-repeat: no-repeat;
+					background-position: center center;
+					height: 64px;}
+
+.logout:hover{		background-image: url("img/logout2.png");
+					transition: 0.2s;}
+
+body{				background-repeat: no-repeat;
+					background-color: black}
+
+
+.;esp{				margin-bottom: 20px; 
+					margin-top: 20px;}
+
+.b{					
+					background-size: 100% 100% ;
+					background-repeat: no-repeat;
+	 				width: 100%;
+	 				height: 110px;}				
+
+.h{					color: black;
+					text-decoration: none;}
+
+.h:hover{			color: white;}
+
+.h2{				color: white;
+					text-decoration: none;}
+
+.h2:hover{			color: black;}
+
+.hd{				color: red;
+					text-decoration: none;}
+
+.hd:hover{			color: white;}
+
+.hh{				color: yellow;
+					text-decoration: none;}
+
+.hh:hover{			color: white;}
+
+.ab img{				width: 100%;height: 100%;}
+
+.vb{				margin: 30px 1px 0px 0px;}
+
+.uplr{				height: 143px}
+
+.y {				height: 40px;
+					margin-left: 40%}
+
+.jj {				background-color: darkred;}
+
+.jj:hover{			background-color: blue;
+					color: white;}
+
+.wd{				background-color: white;
+					height: 39px}
+
+.wd:hover{			background-color: orange;}
+
+.wdf{				background-color: #660000;
+					height: 39px}
+
+.wdf:hover{			background-color: gray}
+
+
+.pai{				background-color: rgba(0,0,0,.8);}
+
+.filho{				background-color: rgba(0,0,0,.0);}
+
+.ss{				border-color: rgba(100,0,0,.6);
+ 					border-width: 2px;}
+
+.conta {			background-image: url("img/acon/2x/baseline_account_circle_black_18dp.png");
+					background-size: 60px;
+					background-repeat: no-repeat;
+					background-position: center center;
+					height: 64px;}
+
+.btt{				margin-left: 0px;}
+
+.notificacao {		background-image: url("img/noti/2x/baseline_notifications_black_18dp.png");
+					background-size: 60px;
+					background-repeat: no-repeat;
+					background-position: center center;
+					height: 64px;}
+
+.pi{				text-decoration: none; 
+					color: gray;}
+
+.pi a:hover{		color: gray;}
+
+.fff{				font-family: 'Jua', sans-serif;
+					height: 40px;
+					border-top: 3px solid orange;
+					background-color: black;}
+
+.fff:hover{			background-color: darkred;}
+
+.pi a {				text-decoration: none;}
+
+.gf{				text-align: center; 
+					color: white; 
+					margin-top: 30px;
+					font-size: 30px}
+
+.vv{				background-color: #3B0B0B; 
+					margin-top: 1px; 
+					font-size: 30px; 
+					color: white; 
+					text-align: center;
+					font-family: 'Righteous', cursive;}
+
+.asd{				background-color: #212121; 
+					position: bottom; 
+					text-align: center; 
+					color:white; 
+					font-size:20px;
+					min-height: 330px auto;
+					font-family:verdana;
+					position: absolute;}
+
+.cx{			color: white;
+					font-family: 'Righteous', cursive; 
+					margin-top: 1px;
+					font-size: 30px;}
+
+
+
+.cx2{				text-align: center; 
+					color: white;
+					font-family: 'Righteous', cursive; 
+					margin-top: 1px;
+					font-size: 30px; 
+					background-color: #fff;}
+
+.anuncio{			margin: 0 auto; 
+					background-color: orange;
+					text-decoration: none;
+					min-height: 500px;}
+
+.anuncio img{		width: 100%;}
+
+.cat{				margin: 0 auto; 
+					background-color: orange;
+					min-height: 500px;}
+
+.cat li{
+					list-style-type:none;
+					margin: 10px 0px 0px 0px;
+					font-family: 'Jua', sans-serif;
+					font-size: 20px;}
+
+.cat li a{			color: #000;
+					font-family: 'Righteous', cursive; ;
+					margin-left: -30px;}
+
+.vvv{				background-color:#fff; 
+					margin:	0 auto; 
+					min-height: 500px;}
+
+.jj{				margin-top: 20px;}
+
+.avd{				background-color: black;
+					height:10px}
+
+.avd:hover{			background-image: url(imagens/ss.png);
+					color: white;}
+
+
+.osdrop{			margin:0px 0px 0px 0px;
+					font-size: 20px;
+					color: black;}
+.osdrop:hover{		background-color: #cc3300;
+					height: 30px;
+					transition: 0.2s;}
+
+.pi2{				color: white;
+					font-family: 'Righteous', cursive;}
+
+.BDI{				margin-top: 1%;}
+
+.kld{				text-align: center;}
+
+.centralizar{		text-align: center;}
+
+.ncon{				color: white;
+					font-family: 'Jua', sans-serif;}
+
+.dtz{				color: lightblue;}
+
+.dtz2{				color: blue;}
+
+.btext{				border: 1px solid blue;
+    				border-radius: 12px;}
+
+.centralizart{		margin-left: 10%}
+
+.centrala{			margin-left: 1%;
+					font-size: 15px;}
+
+.lado{				margin-left: 20%;}
+
+.fluido_1{			width: 200px;}
+
+.fluido_2{			width: 100%;}
+
+.avd2{				font-family: 'Roboto Condensed', sans-serif; width: 100%;}
+
+.avd2:hover li{transition: 0.3s;}
+
+.emcima{			color: white;
+					font-size: 18px;
+					font-weight: bold;
+					text-decoration: none;}
+
+.caso{				font-family: 'Jua', sans-serif;}
+
+.caso2{				color: white;}
+
+.emcima2{			color: white;
+					text-align: center;
+					font-size: 14px;
+					font-family: 'Jua', sans-serif;
+					}
+
+.nos{				font-weight: bold;}
+
+.italico{			font-style: italic;}
+
+.validaop{			color: red; 
+					font-size: 20px; 
+					font-weight: bold;}
+
+.aumentar{			font-size: 20px; 
+					font-weight: bold;}
+
+.semopacidade{		opacity: 1;}
+
+.opacidade{			opacity: 0.6;}
+
+
+/* 
+AQUI EM BAIXO EH AS FONTES(TODAS LINKADAS)
+*/
+
+/*
+
+font-family: 'Indie Flower', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Audiowide', cursive;**********
+font-family: 'Fugaz One', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Chewy', cursive;
+font-family: 'Contrail One', cursive;
+font-family: 'Squada One', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Bowlby One SC', cursive;
+font-family: 'Kavoon', cursive;
+
+
+FONTES SANS-SERIF
+
+
+font-family: 'Encode Sans Condensed', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Signika', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Cairo', sans-serif;
+font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Heebo', sans-serif;
+
+<!--
+    
+                                                                                                                                      
+
+    CÓDIGO PARA QUANDO MARCAR A CHECKBOX, APARECER UM TEXTO, TABEÇA, INPUT, ETC...
+    (Coloquei no coadastro, pra aparecer mais opção de adicionar endereçoS)
+
+                                                                                                                                          
+
+    <INPUT name="alterar" TYPE="checkbox" id="alterar" onClick="document.all.mostraBox.style.display = (document.all.mostraBox.style.display == 'none') ? '' : 'none'" value="no">
+
+      Alterar e-mail.
+      <div STYLE="display:none" ID="mostraBox" name="email">batata</div>
+-->
+*/
+
+
+.dropdown {			position: relative;
+					display: inline-block;
+					margin-bottom: 0px;
+					border-bottom: 6px solid rgb(250, 172, 4);}
+
+.dropdown-content {	margin-top:0px;
+    				right: 0%;
+					position: absolute;
+					display: none;
+    				background-color:lightgray;
+    				min-width: 100%;
+    				box-shadow: 0px 8px 16px 0px rgba(100,0,0,0.7);
+   				 	z-index: 1;
+   				 	border-bottom: 1px solid rgb(250, 172, 4);
+   				 	border-right: 1px solid rgb(250, 172, 4);
+   					border-left: 1px solid rgb(250, 172, 4);
+   					-webkit-animation-name: example;  /* Safari 4.0 - 8.0 */
+    				-webkit-animation-duration: 0.2s;  /* Safari 4.0 - 8.0 */    
+    				-webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    				animation-name: example;
+    				animation-duration: 0.2s;    
+    				animation-fill-mode: forwards;
+
+    				}
+
+.dropdown:hover .dropdown-content {
+    				display: block;}
+
+ @-webkit-keyframes example {
+    				from {top: 80%;}
+    				to {top: 115%;}
+}
+
+@keyframes example {
+    				from {top: 80%;}
+    				to {top: 115%;}
+}
+
+.vltar{				background-color: blue;}
+
+.sot{				background-color: blue;
+					color: white;
+					margin-left: 29%;}
+
+.sot:hover{			background-color: #0B0B3B;
+					transition:0.2s;}
+
+.osdrop2{			margin:0px 0px 0px 0px;
+					font-size: 20px;
+					text-decoration: none;}
+.osdrop2:hover{		background-color: orange;
+					height: 30px;
+					transition: 0.2s;}
+
+.pi3{				text-decoration: none; 
+					color: black;
+					background-color: black;}
+
+.pi3 a:hover{		color: gray;}
+
+.pi3 a {			text-decoration: none;}
+
+.fff3{				font-family: 'Indie Flower', cursive;
+					height: 40px;}
+
+.fff3:hover{		background-color: orange;
+					color:green;}
+
+.dropdown2 {		position: relative;
+    				display: inline-block;}
+
+.dropdown-content2 {margin-top:4%;
+    				right: 0%;
+    				display: none;
+    				position: absolute;
+    				background-color:gray;
+    				min-width: 100%;
+    				box-shadow: 0px 8px 16px 0px rgba(100,100,100,0.7);
+    				z-index: 1;}
+
+.dropdown2:hover .dropdown-content2 {
+    				display: block;}
+
+
+.dropdown3 {
+    				position: relative;
+    				display: inline-block;}
+
+.dropdown-content3 {
+    				margin-top:63%;
+    				height: 100px;
+    				right: 0%;
+    				display: none;
+    				position: absolute;
+    				background-color:white;
+    				min-width: 100%;
+    				box-shadow: 0px 8px 16px 0px rgba(100,100,100,0.7);
+    				z-index: 2;
+    				-webkit-animation-name: drop254;
+    				-webkit-animation-duration: 0.2s;   
+    				-webkit-animation-fill-mode: forwards;
+    				animation-name: drop254;
+    				animation-duration: 0.2s;    				
+    				animation-fill-mode: forwards;}
+
+ @-webkit-keyframes drop254 {
+    				from {top: -20px;}
+    				to {top: 0%;}
+}
+
+@keyframes drop254 {
+    				from {top: -20px;}
+    				to {top: 0%;}
+}
+
+.dropdown3:hover .dropdown-content3 {
+    				display: block;}
+
+
+
+.lanche_normal{
+					font-size: 17px;
+}
+
+.preço{
+					font-size: 15px;
+					font-weight: bold; 
+					color: black}
+
+.titulo{
+					font-size: 15px;
+					width: 190px;
+}
+
+.preço{
+					font-size: 20px;
+					color: white;
+}
+
+.xsalada{
+    				background-color: darkred;
+    				color: white;
+    				background-repeat: no-repeat;
+    				text-align: left;
+
+    }
+
+.dropdown-divider2 {
+  					height: 0;
+  					margin: 0.5rem 0;
+  					overflow: hidden;
+  					border-top: 1px solid #000;
+}
+
+.png{				margin-left: 30%;}
+
+.png2{ 				margin-left: 18%; }
+
+.png3{ 				margin-left: 0%;
+					width: 40px; }
+
+.png4{ 				margin-left: 30%;}
+
+.png5{ 				margin-left: 22%; }
+
+.admin1{			height: 39px;}
+
+.fonte_1{			color: white;}
+
+.aumentar{			width: 100%; height: 100%;}
+
+.nyam{				margin-left: 30%;}
+
+.png6{ 				margin-left: 33%; }
+
+.pao{				width: 100%;
+					height: 100%;}
+
+.batata_1{			height: 40px;}
+
+.teste img{ 		width: 100%; }
+
+.progress{
+    				height: 15px;
+    				background-color: #777;
+    				position: relative;
+}
+
+.progress .progress-bar{
+   					position: absolute;
+   					height: 100%;
+   					background-color: #add555;
+   					animation: progress-animation 6s infinite;
+}
+
+
+@keyframes progress-animation{
+    				0% { width: 0%; }
+    
+    				100% { width: 100%}
+    
+}
+
+.nya{				box-shadow: 0 0 0 0; border: 1 none; border-color: orange;}
+.nya:hover{			box-shadow: 0 0 0 0; border: 1 none; border-color: orange;}
+.nya:focus{			box-shadow: 0 0 0 0; border: 1 none; border-color: orange;}
+
+.log_cen{			margin: 20%;}
+
+
+
+
+
+@media (max-width:1500px){
+
+.marginzin{			margin-right: 5%;}}
+
+@media (min-width:1500px){
+
+.marginzin{			margin-right: 20%;}
+.vvv{			widht: 90%;}
+.cat{			widht: 5%;}
+.anuncio{			widht: 5%;}}
+
+@media (min-width:1700px){
+
+.marginzin2{			margin-right: 30%;}}
+
+@media (max-width:1200px){
+
+.marginzin2{			margin-right: -20%;}}
+
+
+.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.pace-inactive {
+  display: none;
+}
+
+.pace .pace-progress {
+  background: #ee3148;
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 3px;
+}
+
+.pace .pace-progress-inner {
+  display: block;
+  position: absolute;
+  right: 0px;
+  width: 100px;
+  height: 100%;
+  box-shadow: 0 0 10px #ee3148, 0 0 5px #ee3148;
+  opacity: 1.0;
+  -webkit-transform: rotate(3deg) translate(0px, -4px);
+  -moz-transform: rotate(3deg) translate(0px, -4px);
+  -ms-transform: rotate(3deg) translate(0px, -4px);
+  -o-transform: rotate(3deg) translate(0px, -4px);
+  transform: rotate(3deg) translate(0px, -4px);
+}
+
+.pace .pace-activity {
+  display: block;
+  position: fixed;
+  z-index: 2000;
+  top: 15px;
+  right: 15px;
+  width: 14px;
+  height: 14px;
+  border: solid 2px transparent;
+  border-top-color: #ee3148;
+  border-left-color: #ee3148;
+  border-radius: 10px;
+  -webkit-animation: pace-spinner 400ms linear infinite;
+  -moz-animation: pace-spinner 400ms linear infinite;
+  -ms-animation: pace-spinner 400ms linear infinite;
+  -o-animation: pace-spinner 400ms linear infinite;
+  animation: pace-spinner 400ms linear infinite;
+}
+
+@-webkit-keyframes pace-spinner {
+  0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@-moz-keyframes pace-spinner {
+  0% { -moz-transform: rotate(0deg); transform: rotate(0deg); }
+  100% { -moz-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@-o-keyframes pace-spinner {
+  0% { -o-transform: rotate(0deg); transform: rotate(0deg); }
+  100% { -o-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@-ms-keyframes pace-spinner {
+  0% { -ms-transform: rotate(0deg); transform: rotate(0deg); }
+  100% { -ms-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@keyframes pace-spinner {
+  0% { transform: rotate(0deg); transform: rotate(0deg); }
+  100% { transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+.estabilizar{		width: 100%;}
+
+.estabilizar2{		width: 100%;
+					height: 100%;}
+
+.mhn{       font-size: 20px;}
+
+.box_manter{  position: -webkit-sticky;
+              position: sticky;
+              background-color: white;  
+              top: 0;}
+
+.box_manter_estilo{
+            min-width: 100px auto;
+            height: 100px auto;
+            z-index: 3;
+}
+
+.nome_box{  width: 100%;}
+
+.table_estilo{  width: 100% auto;}
+
+
+.normal {position:relative;}
+.estavel {position: fixed;bottom: 20px;z-index:1;}
+
+.relative{position: relative;}
+
+.carrim{    background-color: orange}
+
+.tamanhu_tabela{width: 100%;}
+
+.no_deco{text-decoration: none;}
+
+.imagem_cardap {right: 20px;}
+
+.imagem_cardap img{
+                height: 60px;
+                width: 60px;
+                transition: 1s;}
+
+.imagem_cardap:hover img{
+                transition: 0.1s;
+                height: 90px;
+                width: 90px;}
+
+.uyg{           height: 500px auto; width: 100%}
+
+.nyams{         height: 35px;}
+
+.nyams2{        height: 50px;}
+
+.kodew{         position: fixed;z-index:4; top: 100px; max-width: 64%;}
+
+#backtopo {
+    display: scroll;
+    position: fixed;
+    right: 45%;
+    bottom: 10px;
+    z-index: 0;
+}
+
+#backtopo img{
+    height: 60px;
+    width: 70px;
+}
+
+#backtopo:hover{
+    bottom: 15px;
+    transition: 0.2s;
+}
+
+
+            @media (min-width: 1700px) { .caso2 { font-size: 136%; } }
+            @media (max-width: 1700px) { .caso2 { font-size: 134%; } }
+            @media (max-width: 1680px) { .caso2 { font-size: 132%; } }
+            @media (max-width: 1660px) { .caso2 { font-size: 130%; } }
+            @media (max-width: 1640px) { .caso2 { font-size: 128%; } }
+            @media (max-width: 1620px) { .caso2 { font-size: 126%; } }
+            @media (max-width: 1600px) { .caso2 { font-size: 124%; } }
+            @media (max-width: 1580px) { .caso2 { font-size: 122%; } }
+            @media (max-width: 1560px) { .caso2 { font-size: 120%; } }
+            @media (max-width: 1540px) { .caso2 { font-size: 118%; } }
+            @media (max-width: 1520px) { .caso2 { font-size: 116%; } }
+            @media (max-width: 1500px) { .caso2 { font-size: 114%; } }
+            @media (max-width: 1480px) { .caso2 { font-size: 112%; } }
+            @media (max-width: 1460px) { .caso2 { font-size: 110%; } }
+            @media (max-width: 1440px) { .caso2 { font-size: 108%; } }
+            @media (max-width: 1420px) { .caso2 { font-size: 106%; } }
+            @media (max-width: 1400px) { .caso2 { font-size: 104%; } }
+            @media (max-width: 1380px) { .caso2 { font-size: 102%; } }
+            @media (max-width: 1360px) { .caso2 { font-size: 100%; } }
+            @media (max-width: 1340px) { .caso2 { font-size: 98%; } }
+            @media (max-width: 1320px) { .caso2 { font-size: 96%; } }
+            @media (max-width: 1300px) { .caso2 { font-size: 94%; } }
+            @media (max-width: 1280px) { .caso2 { font-size: 92%; } }
+            @media (max-width: 1260px) { .caso2 { font-size: 90%; } }
+            @media (max-width: 1240px) { .caso2 { font-size: 88%; } }
+            @media (max-width: 1220px) { .caso2 { font-size: 86%; } }
+            @media (max-width: 1200px) { .caso2 { font-size: 84%; } }
+            @media (max-width: 1180px) { .caso2 { font-size: 82%; } }
+            @media (max-width: 1160px) { .caso2 { font-size: 80%; } }
+            @media (max-width: 1140px) { .caso2 { font-size: 78%; } }
+            @media (max-width: 1120px) { .caso2 { font-size: 76%; } }
+            @media (max-width: 1100px) { .caso2 { font-size: 74%; } }
+            @media (max-width: 1080px) { .caso2 { font-size: 72%; } }
+            @media (max-width: 1060px) { .caso2 { font-size: 70%; } }
+            @media (max-width: 1040px) { .caso2 { font-size: 68%; } }
+            @media (max-width: 1020px) { .caso2 { font-size: 66%; } }
+            @media (max-width: 1000px) { .caso2 { font-size: 64%; } }
+            @media (max-width: 980px) { .caso2 { font-size: 62%; } }
+            @media (max-width: 960px) { .caso2 { font-size: 60%; } }
+            @media (max-width: 940px) { .caso2 { font-size: 58%; } }
+            @media (max-width: 920px) { .caso2 { font-size: 56%; } }
+            @media (max-width: 900px) { .caso2 { font-size: 54%; } }
+            @media (max-width: 880px) { .caso2 { font-size: 52%; } }
+            @media (max-width: 860px) { .caso2 { font-size: 50%; } }
+            @media (max-width: 840px) { .caso2 { font-size: 48%; } }
+            @media (max-width: 820px) { .caso2 { font-size: 46%; } }
+            @media (max-width: 800px) { .caso2 { font-size: 44%; } }
+            @media (max-width: 780px) { .caso2 { font-size: 42%; } }
+            @media (max-width: 760px) { .caso2 { font-size: 40%; } }
+            @media (max-width: 740px) { .caso2 { font-size: 38%; } }
+            @media (max-width: 720px) { .caso2 { font-size: 36%; } }
+            @media (max-width: 700px) { .caso2 { font-size: 34%; } }
+            @media (max-width: 680px) { .caso2 { font-size: 32%; } }
+            @media (max-width: 660px) { .caso2 { font-size: 30%; } }
+            @media (max-width: 640px) { .caso2 { font-size: 28%; } }
+            @media (max-width: 620px) { .caso2 { font-size: 26%; } }
+            @media (max-width: 600px) { .caso2 { font-size: 24%; } }
+            @media (max-width: 580px) { .caso2 { font-size: 22%; } }
+            @media (max-width: 560px) { .caso2 { font-size: 20%; } }
+            @media (max-width: 540px) { .caso2 { font-size: 18%; } }
+            @media (max-width: 520px) { .caso2 { font-size: 16%; } }
+            @media (max-width: 500px) { .caso2 { font-size: 14%; } }
+            @media (max-width: 480px) { .caso2 { font-size: 12%; } }
+            @media (max-width: 460px) { .caso2 { font-size: 10%; } }
+            @media (max-width: 440px) { .caso2 { font-size: 8%; } }
+            @media (max-width: 420px) { .caso2 { font-size: 6%; } }
+            @media (max-width: 400px) { .caso2 { font-size: 4%; } }
+            @media (max-width: 380px) { .caso2 { font-size: 3%; } }
+            @media (max-width: 360px) { .caso2 { font-size: 2%; } }
+            @media (max-width: 340px) { .caso2 { font-size: 1%; } }
+            @media (max-width: 320px) { .caso2 { font-size: 0%; } }
+
+
+
+            @media (min-width: 1700px) { .cx { font-size: 188%; } }
+            @media (max-width: 1700px) { .cx { font-size: 188%; } }
+            @media (max-width: 1680px) { .cx { font-size: 186%; } }
+            @media (max-width: 1660px) { .cx { font-size: 184%; } }
+            @media (max-width: 1640px) { .cx { font-size: 182%; } }
+            @media (max-width: 1620px) { .cx { font-size: 180%; } }
+            @media (max-width: 1600px) { .cx { font-size: 178%; } }
+            @media (max-width: 1580px) { .cx { font-size: 176%; } }
+            @media (max-width: 1560px) { .cx { font-size: 174%; } }
+            @media (max-width: 1540px) { .cx { font-size: 172%; } }
+            @media (max-width: 1520px) { .cx { font-size: 170%; } }
+            @media (max-width: 1500px) { .cx { font-size: 168%; } }
+            @media (max-width: 1480px) { .cx { font-size: 166%; } }
+            @media (max-width: 1460px) { .cx { font-size: 164%; } }
+            @media (max-width: 1440px) { .cx { font-size: 162%; } }
+            @media (max-width: 1420px) { .cx { font-size: 160%; } }
+            @media (max-width: 1400px) { .cx { font-size: 158%; } }
+            @media (max-width: 1380px) { .cx { font-size: 156%; } }
+            @media (max-width: 1360px) { .cx { font-size: 154%; } }
+            @media (max-width: 1340px) { .cx { font-size: 152%; } }
+            @media (max-width: 1320px) { .cx { font-size: 150%; } }
+            @media (max-width: 1300px) { .cx { font-size: 148%; } }
+            @media (max-width: 1280px) { .cx { font-size: 146%; } }
+            @media (max-width: 1260px) { .cx { font-size: 144%; } }
+            @media (max-width: 1240px) { .cx { font-size: 142%; } }
+            @media (max-width: 1220px) { .cx { font-size: 140%; } }
+            @media (max-width: 1200px) { .cx { font-size: 138%; } }
+            @media (max-width: 1180px) { .cx { font-size: 136%; } }
+            @media (max-width: 1160px) { .cx { font-size: 134%; } }
+            @media (max-width: 1140px) { .cx { font-size: 132%; } }
+            @media (max-width: 1120px) { .cx { font-size: 130%; } }
+            @media (max-width: 1100px) { .cx { font-size: 128%; } }
+            @media (max-width: 1080px) { .cx { font-size: 126%; } }
+            @media (max-width: 1060px) { .cx { font-size: 124%; } }
+            @media (max-width: 1040px) { .cx { font-size: 122%; } }
+            @media (max-width: 1020px) { .cx { font-size: 120%; } }
+            @media (max-width: 1000px) { .cx { font-size: 118%; } }
+            @media (max-width: 980px) { .cx { font-size: 116%; } }
+            @media (max-width: 960px) { .cx { font-size: 114%; } }
+            @media (max-width: 940px) { .cx { font-size: 112%; } }
+            @media (max-width: 920px) { .cx { font-size: 110%; } }
+            @media (max-width: 900px) { .cx { font-size: 108%; } }
+            @media (max-width: 880px) { .cx { font-size: 106%; } }
+            @media (max-width: 860px) { .cx { font-size: 104%; } }
+            @media (max-width: 840px) { .cx { font-size: 102%; } }
+            @media (max-width: 820px) { .cx { font-size: 100%; } }
+            @media (max-width: 800px) { .cx { font-size: 98%; } }
+            @media (max-width: 780px) { .cx { font-size: 96%; } }
+            @media (max-width: 760px) { .cx { font-size: 94%; } }
+            @media (max-width: 740px) { .cx { font-size: 92%; } }
+            @media (max-width: 720px) { .cx { font-size: 90%; } }
+            @media (max-width: 700px) { .cx { font-size: 88%; } }
+            @media (max-width: 680px) { .cx { font-size: 86%; } }
+            @media (max-width: 660px) { .cx { font-size: 84%; } }
+            @media (max-width: 640px) { .cx { font-size: 82%; } }
+            @media (max-width: 620px) { .cx { font-size: 80%; } }
+            @media (max-width: 600px) { .cx { font-size: 78%; } }
+            @media (max-width: 580px) { .cx { font-size: 76%; } }
+            @media (max-width: 560px) { .cx { font-size: 74%; } }
+            @media (max-width: 540px) { .cx { font-size: 72%; } }
+            @media (max-width: 520px) { .cx { font-size: 70%; } }
+            @media (max-width: 500px) { .cx { font-size: 68%; } }
+            @media (max-width: 480px) { .cx { font-size: 66%; } }
+            @media (max-width: 460px) { .cx { font-size: 64%; } }
+            @media (max-width: 440px) { .cx { font-size: 62%; } }
+            @media (max-width: 420px) { .cx { font-size: 60%; } }
+            @media (max-width: 400px) { .cx { font-size: 58%; } }
+            @media (max-width: 380px) { .cx { font-size: 56%; } }
+            @media (max-width: 360px) { .cx { font-size: 54%; } }
+            @media (max-width: 340px) { .cx { font-size: 52%; } }
+            @media (max-width: 320px) { .cx { font-size: 50%; } }
+
+
+
+
+
+            @media (min-width: 1700px) { .avd2 li { font-size: 162%; } }
+            @media (max-width: 1700px) { .avd2 li { font-size: 160%; } }
+            @media (max-width: 1680px) { .avd2 li { font-size: 158%; } }
+            @media (max-width: 1660px) { .avd2 li { font-size: 156%; } }
+            @media (max-width: 1640px) { .avd2 li { font-size: 154%; } }
+            @media (max-width: 1620px) { .avd2 li { font-size: 152%; } }
+            @media (max-width: 1600px) { .avd2 li { font-size: 150%; } }
+            @media (max-width: 1580px) { .avd2 li { font-size: 148%; } }
+            @media (max-width: 1560px) { .avd2 li { font-size: 146%; } }
+            @media (max-width: 1540px) { .avd2 li { font-size: 144%; } }
+            @media (max-width: 1520px) { .avd2 li { font-size: 142%; } }
+            @media (max-width: 1500px) { .avd2 li { font-size: 140%; } }
+            @media (max-width: 1480px) { .avd2 li { font-size: 138%; } }
+            @media (max-width: 1460px) { .avd2 li { font-size: 134%; } }
+            @media (max-width: 1440px) { .avd2 li { font-size: 132%; } }
+            @media (max-width: 1420px) { .avd2 li { font-size: 130%; } }
+            @media (max-width: 1400px) { .avd2 li { font-size: 128%; } }
+            @media (max-width: 1380px) { .avd2 li { font-size: 126%; } }
+            @media (max-width: 1360px) { .avd2 li { font-size: 124%; } }
+            @media (max-width: 1340px) { .avd2 li { font-size: 122%; } }
+            @media (max-width: 1320px) { .avd2 li { font-size: 120%; } }
+            @media (max-width: 1300px) { .avd2 li { font-size: 118%; } }
+            @media (max-width: 1280px) { .avd2 li { font-size: 116%; } }
+            @media (max-width: 1260px) { .avd2 li { font-size: 114%; } }
+            @media (max-width: 1240px) { .avd2 li { font-size: 112%; } }
+            @media (max-width: 1220px) { .avd2 li { font-size: 110%; } }
+            @media (max-width: 1200px) { .avd2 li { font-size: 108%; } }
+            @media (max-width: 1180px) { .avd2 li { font-size: 106%; } }
+            @media (max-width: 1160px) { .avd2 li { font-size: 104%; } }
+            @media (max-width: 1140px) { .avd2 li { font-size: 102%; } }
+            @media (max-width: 1120px) { .avd2 li { font-size: 100%; } }
+            @media (max-width: 1100px) { .avd2 li { font-size: 98%; } }
+            @media (max-width: 1080px) { .avd2 li { font-size: 96%; } }
+            @media (max-width: 1060px) { .avd2 li { font-size: 94%; } }
+            @media (max-width: 1040px) { .avd2 li { font-size: 92%; } }
+            @media (max-width: 1020px) { .avd2 li { font-size: 90%; } }
+            @media (max-width: 1000px) { .avd2 li { font-size: 88%; } }
+            @media (max-width: 980px) { .avd2 li { font-size: 86%; } }
+            @media (max-width: 960px) { .avd2 li { font-size: 84%; } }
+            @media (max-width: 940px) { .avd2 li { font-size: 82%; } }
+            @media (max-width: 920px) { .avd2 li { font-size: 80%; } }
+            @media (max-width: 900px) { .avd2 li { font-size: 78%; } }
+            @media (max-width: 880px) { .avd2 li { font-size: 76%; } }
+            @media (max-width: 860px) { .avd2 li { font-size: 74%; } }
+            @media (max-width: 840px) { .avd2 li { font-size: 72%; } }
+            @media (max-width: 820px) { .avd2 li { font-size: 70%; } }
+            @media (max-width: 800px) { .avd2 li { font-size: 68%; } }
+            @media (max-width: 780px) { .avd2 li { font-size: 66%; } }
+            @media (max-width: 760px) { .avd2 li { font-size: 64%; } }
+            @media (max-width: 740px) { .avd2 li { font-size: 62%; } }
+            @media (max-width: 720px) { .avd2 li { font-size: 60%; } }
+            @media (max-width: 700px) { .avd2 li { font-size: 58%; } }
+            @media (max-width: 680px) { .avd2 li { font-size: 56%; } }
+            @media (max-width: 660px) { .avd2 li { font-size: 54%; } }
+            @media (max-width: 640px) { .avd2 li { font-size: 52%; } }
+            @media (max-width: 620px) { .avd2 li { font-size: 50%; } }
+            @media (max-width: 600px) { .avd2 li { font-size: 48%; } }
+            @media (max-width: 580px) { .avd2 li { font-size: 46%; } }
+            @media (max-width: 560px) { .avd2 li { font-size: 44%; } }
+            @media (max-width: 540px) { .avd2 li { font-size: 42%; } }
+            @media (max-width: 520px) { .avd2 li { font-size: 40%; } }
+            @media (max-width: 500px) { .avd2 li { font-size: 38%; } }
+            @media (max-width: 480px) { .avd2 li { font-size: 36%; } }
+            @media (max-width: 460px) { .avd2 li { font-size: 34%; } }
+            @media (max-width: 440px) { .avd2 li { font-size: 32%; } }
+            @media (max-width: 420px) { .avd2 li { font-size: 30%; } }
+            @media (max-width: 400px) { .avd2 li { font-size: 28%; } }
+            @media (max-width: 380px) { .avd2 li { font-size: 26%; } }
+            @media (max-width: 360px) { .avd2 li { font-size: 24%; } }
+            @media (max-width: 340px) { .avd2 li { font-size: 22%; } }
+            @media (max-width: 320px) { .avd2 li { font-size: 20%; } }
+
+
+
+
+            @media (min-width: 1700px) { .avd2 li:hover { font-size: 188%; } }
+            @media (max-width: 1700px) { .avd2 li:hover { font-size: 188%; } }
+            @media (max-width: 1680px) { .avd2 li:hover { font-size: 186%; } }
+            @media (max-width: 1660px) { .avd2 li:hover { font-size: 184%; } }
+            @media (max-width: 1640px) { .avd2 li:hover { font-size: 182%; } }
+            @media (max-width: 1620px) { .avd2 li:hover { font-size: 180%; } }
+            @media (max-width: 1600px) { .avd2 li:hover { font-size: 178%; } }
+            @media (max-width: 1580px) { .avd2 li:hover { font-size: 176%; } }
+            @media (max-width: 1560px) { .avd2 li:hover { font-size: 174%; } }
+            @media (max-width: 1540px) { .avd2 li:hover { font-size: 172%; } }
+            @media (max-width: 1520px) { .avd2 li:hover { font-size: 170%; } }
+            @media (max-width: 1500px) { .avd2 li:hover { font-size: 168%; } }
+            @media (max-width: 1480px) { .avd2 li:hover { font-size: 166%; } }
+            @media (max-width: 1460px) { .avd2 li:hover { font-size: 164%; } }
+            @media (max-width: 1440px) { .avd2 li:hover { font-size: 162%; } }
+            @media (max-width: 1420px) { .avd2 li:hover { font-size: 160%; } }
+            @media (max-width: 1400px) { .avd2 li:hover { font-size: 158%; } }
+            @media (max-width: 1380px) { .avd2 li:hover { font-size: 156%; } }
+            @media (max-width: 1360px) { .avd2 li:hover { font-size: 154%; } }
+            @media (max-width: 1340px) { .avd2 li:hover { font-size: 152%; } }
+            @media (max-width: 1320px) { .avd2 li:hover { font-size: 150%; } }
+            @media (max-width: 1300px) { .avd2 li:hover { font-size: 148%; } }
+            @media (max-width: 1280px) { .avd2 li:hover { font-size: 146%; } }
+            @media (max-width: 1260px) { .avd2 li:hover { font-size: 144%; } }
+            @media (max-width: 1240px) { .avd2 li:hover { font-size: 142%; } }
+            @media (max-width: 1220px) { .avd2 li:hover { font-size: 140%; } }
+            @media (max-width: 1200px) { .avd2 li:hover { font-size: 138%; } }
+            @media (max-width: 1180px) { .avd2 li:hover { font-size: 136%; } }
+            @media (max-width: 1160px) { .avd2 li:hover { font-size: 134%; } }
+            @media (max-width: 1140px) { .avd2 li:hover { font-size: 132%; } }
+            @media (max-width: 1120px) { .avd2 li:hover { font-size: 130%; } }
+            @media (max-width: 1100px) { .avd2 li:hover { font-size: 128%; } }
+            @media (max-width: 1080px) { .avd2 li:hover { font-size: 126%; } }
+            @media (max-width: 1060px) { .avd2 li:hover { font-size: 124%; } }
+            @media (max-width: 1040px) { .avd2 li:hover { font-size: 122%; } }
+            @media (max-width: 1020px) { .avd2 li:hover { font-size: 120%; } }
+            @media (max-width: 1000px) { .avd2 li:hover { font-size: 118%; } }
+            @media (max-width: 980px) { .avd2 li:hover { font-size: 116%; } }
+            @media (max-width: 960px) { .avd2 li:hover { font-size: 114%; } }
+            @media (max-width: 940px) { .avd2 li:hover { font-size: 112%; } }
+            @media (max-width: 920px) { .avd2 li:hover { font-size: 110%; } }
+            @media (max-width: 900px) { .avd2 li:hover { font-size: 108%; } }
+            @media (max-width: 880px) { .avd2 li:hover { font-size: 106%; } }
+            @media (max-width: 860px) { .avd2 li:hover { font-size: 104%; } }
+            @media (max-width: 840px) { .avd2 li:hover { font-size: 102%; } }
+            @media (max-width: 820px) { .avd2 li:hover { font-size: 100%; } }
+            @media (max-width: 800px) { .avd2 li:hover { font-size: 98%; } }
+            @media (max-width: 780px) { .avd2 li:hover { font-size: 96%; } }
+            @media (max-width: 760px) { .avd2 li:hover { font-size: 94%; } }
+            @media (max-width: 740px) { .avd2 li:hover { font-size: 92%; } }
+            @media (max-width: 720px) { .avd2 li:hover { font-size: 90%; } }
+            @media (max-width: 700px) { .avd2 li:hover { font-size: 88%; } }
+            @media (max-width: 680px) { .avd2 li:hover { font-size: 86%; } }
+            @media (max-width: 660px) { .avd2 li:hover { font-size: 84%; } }
+            @media (max-width: 640px) { .avd2 li:hover { font-size: 82%; } }
+            @media (max-width: 620px) { .avd2 li:hover { font-size: 80%; } }
+            @media (max-width: 600px) { .avd2 li:hover { font-size: 78%; } }
+            @media (max-width: 580px) { .avd2 li:hover { font-size: 76%; } }
+            @media (max-width: 560px) { .avd2 li:hover { font-size: 74%; } }
+            @media (max-width: 540px) { .avd2 li:hover { font-size: 72%; } }
+            @media (max-width: 520px) { .avd2 li:hover { font-size: 70%; } }
+            @media (max-width: 500px) { .avd2 li:hover { font-size: 68%; } }
+            @media (max-width: 480px) { .avd2 li:hover { font-size: 66%; } }
+            @media (max-width: 460px) { .avd2 li:hover { font-size: 64%; } }
+            @media (max-width: 440px) { .avd2 li:hover { font-size: 62%; } }
+            @media (max-width: 420px) { .avd2 li:hover { font-size: 60%; } }
+            @media (max-width: 400px) { .avd2 li:hover { font-size: 58%; } }
+            @media (max-width: 380px) { .avd2 li:hover { font-size: 56%; } }
+            @media (max-width: 360px) { .avd2 li:hover { font-size: 54%; } }
+            @media (max-width: 340px) { .avd2 li:hover { font-size: 52%; } }
+            @media (max-width: 320px) { .avd2 li:hover { font-size: 50%; } }
+
+.dropdown-divider3 {
+            height: 0;
+            margin: 0.5rem 0;
+            overflow: hidden;
+            border-top: 1px solid #fff;
+}
